@@ -23,7 +23,7 @@
 
 
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=C++&logoColor=FFFF)&nbsp;
-![C#](https://img.shields.io/badge/-C#-000?style=flat&logo=C#&logoColor=FFFF)&nbsp;
+![C\#](https://img.shields.io/badge/-C#-000?style=flat&logo=C\#&logoColor=FFFF)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-007ACC?style=flat&logo=.NET&logoColor=0000)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
