@@ -12,7 +12,7 @@
 
 
 - 🏢 I'm a .NET Back-End Web Developer 
-- 👨‍💻 Competitive Programmer, Computer Science Student.. more in LinkedIn.
+- 👨‍💻 Competitive Programmer, Computer Science Student
 
 ### Connect with Me :
 
