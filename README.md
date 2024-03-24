@@ -23,7 +23,6 @@
 
 
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=C++&logoColor=FFFF)&nbsp;
-![Csharp](https://img.shields.io/badge/-C#-000?style=flat&logo=Csharp&logoColor=FFFF)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-007ACC?style=flat&logo=.NET&logoColor=0000)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -35,7 +34,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymanYassien&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
