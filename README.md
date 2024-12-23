@@ -41,21 +41,3 @@
 <a href="https://komarev.com/ghpvc/?username=aymanYassien&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=aymanYassien&style=for-the-badge">
 </a>
-
-<!-- JavaScript for greeting message -->
-<script>
-  const greetingElement = document.createElement('h3');
-  const currentHour = new Date().getHours();
-  let greetingMessage = "Hello!";
-
-  if (currentHour < 12) {
-    greetingMessage = "Good Morning!";
-  } else if (currentHour < 18) {
-    greetingMessage = "Good Afternoon!";
-  } else {
-    greetingMessage = "Good Evening!";
-  }
-
-  greetingElement.innerText = greetingMessage + " Welcome to Ayman Yassien's Profile!";
-  document.querySelector('h3').appendChild(greetingElement);
-</script>
