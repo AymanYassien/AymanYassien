@@ -15,7 +15,7 @@
 
 🎓 Just graduated with a Computer Science degree and ready to kick off my career as a **Full Stack Developer**.
 
-💡 I specialize in building modern, scalable web applications using the **.NET ecosystem** on the backend and **React** on the frontend.
+💡 I specialize in building modern web applications using the **.NET ecosystem** on the backend and **React** on the frontend.
 
 💼 Passionate about writing clean code, solving real-world problems, and continuously learning new technologies.
 
