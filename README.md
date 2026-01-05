@@ -15,7 +15,7 @@
 
 🎓 Just graduated with a Computer Science degree and ready to kick off my career as a **Full Stack Developer**.
 
-💡 I specialize in building modern web applications using the **.NET ecosystem** on the backend and **React** on the frontend.
+💡 I specialize in building modern web applications using the **.NET ecosystem** on the backend and **Angular** on the frontend.
 
 💼 Passionate about writing clean code, solving real-world problems, and continuously learning new technologies.
 
@@ -34,7 +34,7 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ### 🔹 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
