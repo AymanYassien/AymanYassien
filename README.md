@@ -1,7 +1,7 @@
 <!-- Typing SVG by DenverCoder1 -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20.NET%20%26%20React%20Developer;Graduated%20Computer%20Science%20Engineer;Passionate%20about%20Clean%20Code%20%26%20Tech%20Learning;Let’s%20Build%20Great%20Things%20Together!&font=Fira%20Code&center=true&width=700&height=50&color=F75C7E&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20.NET%20%26%20angular%20Developer;Graduated%20Computer%20Science%20Engineer;Passionate%20about%20Clean%20Code%20%26%20Tech%20Learning;Let’s%20Build%20Great%20Things%20Together!&font=Fira%20Code&center=true&width=700&height=50&color=F75C7E&vCenter=true&size=22">
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ### 🔹 Frontend
-![Angular](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-angular-61DAFB?style=flat&logo=angular&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
