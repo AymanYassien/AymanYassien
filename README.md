@@ -1,81 +1,57 @@
-<!-- Typing SVG by DenverCoder1 -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20.NET%20%26%20angular%20Developer;Graduated%20Computer%20Science%20Engineer;Passionate%20about%20Clean%20Code%20%26%20Tech%20Learning;Let’s%20Build%20Great%20Things%20Together!&font=Fira%20Code&center=true&width=700&height=50&color=F75C7E&vCenter=true&size=22">
-  </a>
-</p>
+# Hi, I'm Ayman Yassien 👋
 
-<h3 align="center">
-  Welcome to Ayman Yassien's GitHub! 🚀
-</h3>
+### Senior Backend Engineer · NestJS · TypeScript · PostgreSQL
+
+I build secure, scalable REST APIs and business-critical systems for the Saudi market, across education, government, fintech and legal tech. 3+ years of backend experience, with a focus on clean architecture, solid authentication and authorization, and well-tested code.
+
+📍 Taif, Saudi Arabia · available remote and on-site in Riyadh
+📫 [ayman.yassien.fci@gmail.com](mailto:ayman.yassien.fci@gmail.com) · [LinkedIn](https://linkedin.com/in/aymanyassien)
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ What I work with
 
-🎓 Just graduated with a Computer Science degree and ready to kick off my career as a **Full Stack Developer**.
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-💡 I specialize in building modern web applications using the **.NET ecosystem** on the backend and **Angular** on the frontend.
-
-💼 Passionate about writing clean code, solving real-world problems, and continuously learning new technologies.
-
-📚 Currently diving deeper into **Cloud Development**, **Microservices**, and **Software Architecture**.
-
-🧠 Tech Enthusiast • Fast Learner • Problem Solver
-
----
-
-## 🛠 Tech Stack
-
-### 🔹 Backend
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-
-### 🔹 Frontend
-![Angular](https://img.shields.io/badge/-angular-61DAFB?style=flat&logo=angular&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-### 🔹 Programming Languages
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### 🔹 Tools & Environments
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-
-
+| Area | Details |
+|------|---------|
+| **Backend** | NestJS, Node.js, TypeScript, RESTful APIs, Swagger/OpenAPI |
+| **Security** | JWT, refresh tokens, Guards, Interceptors, role-based access control |
+| **Data** | PostgreSQL, SQL Server, Knex.js, schema design and query optimization |
+| **Architecture** | Clean Architecture, SOLID, Dependency Injection, Repository pattern |
+| **Quality** | Jest unit and integration tests, code reviews, Git workflows |
+| **AI** | RAG and LangChain (hands-on, self-directed projects) |
+| **Also** | C#, .NET Core, Entity Framework Core, Angular |
 
 ---
 
-## 🌐 Connect with Me
+## 📌 Featured projects
 
-<a href="https://www.linkedin.com/in/aymanyassien/" target="_blank">
-  <img src="https://img.shields.io/badge/-Ayman%20Yassien-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-</a>
-<a href="https://aymanyassien.github.io/Personal-Website" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio%20Website-FF6347?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
-</a>
+| Project | What it shows | Stack |
+|---------|---------------|-------|
+| [**nest-erp-api**](https://github.com/AymanYassien/nest-erp-api) | ERP-style backend with JWT auth, RBAC Guards, Interceptors, transactional orders and tests | NestJS, TypeScript, Knex, PostgreSQL, Jest |
+| [**Rased-API**](https://github.com/AymanYassien/Rased-API) | Fintech analytics backend: wallets, budgets, savings, loans, goals | .NET 9, EF Core, SQL Server |
+| [**BinaryDecimalStore**](https://github.com/AymanYassien/BinaryDecimalStore) | E-commerce platform with OAuth 2.0 login and Stripe payments | .NET Core MVC, SQL Server |
+| [**SQL-Practice-Ground**](https://github.com/AymanYassien/SQL-Practice-Ground) | 5 ERDs and 50+ practice problems | T-SQL |
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Currently
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymanYassien&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+- 🔨 Building backend services with NestJS, Knex and PostgreSQL on a platform serving 5K+ users and 300+ API endpoints
+- 🧪 Writing unit and integration tests with Jest
+- 🤖 Exploring RAG pipelines with LangChain
 
-<br><br><br><br><br><br><br>
+---
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=aymanYassien&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=aymanYassien&style=for-the-badge" alt="Profile views" />
-  </a>
-</p>
+## 🤝 Open to
+
+Senior backend roles (NestJS / Node.js), remote or on-site in Saudi Arabia. Message me on [LinkedIn](https://linkedin.com/in/aymanyassien) or by email.
